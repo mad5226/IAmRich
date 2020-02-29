@@ -15,7 +15,7 @@ Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
+4. Click on '...'
 
 **Expected Result**
 A clear and concise description of what you expected to happen.
@@ -27,15 +27,16 @@ A clear and concise description of what is happening.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
+ - OS: [e.g. Windows 10]
  - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+ - Version [e.g. 1.16.6]
+ - Shell [5.0.8]
+ - Node [12.0.0]
 
-**Smartphone (please complete the following information):**
+**Mobile (please complete the following information):**
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ - App Version [e.g. 2.3.0]
 
 **Additional context**
 Add any other context about the problem here.
